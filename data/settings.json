@@ -113,13 +113,13 @@
     "short": "Lviv, Ukraine",
     "address": "36 Shchyretska St, Lviv, Ukraine",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": -16.504925,
+      "longitude": -68.13184,
+      "zoom": 16
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": -16.50492,
+      "longitude": -68.1318
     },
     "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
   },
