@@ -32,11 +32,6 @@
       "route": "schedule",
       "permalink": "/schedule/",
       "label": "Schedule"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/",
-      "label": "Team"
     }
   ],
   "heroSettings": {
@@ -47,14 +42,6 @@
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
-    },
-    "blog": {
-      "title": "Blog",
-      "metaDescription": "Read stories from our team",
-      "background": {
-        "color": "#FFF"
-      },
-      "fontColor": "#424242"
     },
     "speakers": {
       "title": "Speakers",
@@ -109,19 +96,19 @@
   "location": {
     "label": "Location",
     "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "city": "La Paz",
+    "short": "La Paz, Bolivia",
+    "address": "Irpavi Av. Rafael Pabon, La Paz, Bolivia",
     "pointer": {
-      "latitude": -16.504925,
-      "longitude": -68.13184,
+      "latitude": -16.534993, 
+      "longitude": -68.086840,
       "zoom": 16
     },
     "mapCenter": {
-      "latitude": -16.50492,
-      "longitude": -68.1318
+      "latitude": -16.5349,
+      "longitude": -68.0868
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Lugar: Escuela Militar de Ingeniería, el Auditorio principal del campus universitario de la EMI (Irpavi) esta ubicado en la Av. Rafael Pabon, a unos pasos del Teleferico Línea Verde "
   },
   "mediaQueries": {
     "xs": {
@@ -143,33 +130,11 @@
     "follow": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/GDGLaPaz/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
-      }
-    ],
-    "share": [
-      {
-        "name": "gplus",
-        "url": "https://plus.google.com/share?url="
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sharer.php?u="
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/intent/tweet?text="
+        "url": "https://twitter.com/gdglapaz"
       }
     ]
   },
