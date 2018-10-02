@@ -36,8 +36,8 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG La Paz",
+          "url": "http://meetu.ps/c/3h9Wy/yD6zS/f",
           "newTab": true
         },
         {
@@ -84,15 +84,15 @@
       },
       "days": {
         "label": "Hours",
-        "number": "+6"
+        "number": "8"
       },
       "sessions": {
-        "label": "Sessions",
-        "number": "+50"
+        "label": "TechTalks",
+        "number": "13"
       },
       "tracks": {
-        "label": "Tracks",
-        "number": "+4"
+        "label": "Codelabs",
+        "number": "7"
       }
     }
   },
@@ -104,7 +104,7 @@
     "save": "Save ${discount}% today"
   },
   "partnersBlock": {
-    "title": "Partners",
+    "title": "Con el Apoyo de:",
     "button": "Become a partner",
     "form": {
       "title": "Become a partner!",
