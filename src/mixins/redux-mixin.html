@@ -50,70 +50,11 @@
         data: {},
       },
     },
-    tickets: {
-      fetching: false,
-      fetchingError: null,
-      list: [],
-    },
-    videos: {
-      fetching: false,
-      fetchingError: null,
-      list: [],
-    },
-    blog: {
-      fetching: false,
-      fetchingError: null,
-      list: [],
-      obj: {},
-    },
-    partners: {
-      fetching: false,
-      fetchingError: null,
-      list: [],
-      adding: false,
-      addingError: false,
-    },
-    previousSpeakers: {
-      fetching: false,
-      fetchingError: null,
-      list: [],
-      obj: {},
-    },
     speakers: {
       fetching: false,
       fetchingError: null,
       list: [],
       obj: {},
-    },
-    sessions: {
-      list: {
-        fetching: false,
-        fetchingError: null,
-        list: [],
-        obj: {},
-      },
-      featured: {},
-      featuredFetching: false,
-      featuredError: null,
-    },
-    schedule: [],
-    gallery: {
-      fetching: false,
-      fetchingError: null,
-      list: [],
-    },
-    team: {
-      fetching: false,
-      fetchingError: null,
-      list: [],
-    },
-    user: {
-      signedIn: false,
-    },
-    subscribed: false,
-    toast: {},
-    notifications: {
-      status: NOTIFICATIONS_STATUS.DEFAULT,
     },
   };
 
@@ -125,15 +66,8 @@
       tickets: ticketsReducer(state.tickets, action),
       partners: partnersReducer(state.partners, action),
       videos: videosReducer(state.videos, action),
-      blog: blogReducer(state.blog, action),
       speakers: speakersReducer(state.speakers, action),
-      previousSpeakers: previousSpeakersReducer(state.previousSpeakers, action),
-      sessions: sessionsReducer(state.sessions, action),
-      schedule: scheduleReducer(state.schedule, action),
       gallery: galleryReducer(state.gallery, action),
-      team: teamReducer(state.team, action),
-      user: userReducer(state.user, action),
-      subscribed: subscribeReducer(state.subscribed, action),
       toast: toastReducer(state.toast, action),
       notifications: notificationsReducer(state.notifications, action),
     };

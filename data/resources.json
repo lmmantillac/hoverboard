@@ -44,11 +44,6 @@
           "name": "Google Developers Group",
           "url": "https://developers.google.com/",
           "newTab": true
-        },
-        {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
-          "newTab": true
         }
       ]
     },
@@ -88,11 +83,11 @@
       },
       "sessions": {
         "label": "TechTalks",
-        "number": "13"
+        "number": "15"
       },
       "tracks": {
         "label": "Codelabs",
-        "number": "7"
+        "number": "8"
       }
     }
   },
@@ -140,47 +135,23 @@
   "speakersBlock": {
     "title": "Rockstar speakers",
     "callToAction": {
-      "label": "View all speakers",
+      "label": "Ver todos los Speakers",
       "link": "/speakers/"
     }
   },
-  "previousSpeakersBlock": {
-    "title": "Previous speakers",
-    "callToAction": {
-      "label": "View all",
-      "link": "/previous-speakers/"
-    }
-  },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "#DevFest18 #GDGLaPaz",
+    "description": "Reviviendo nuestro pasado Google I/O Extended 2018, este 13 de Octubre, la comunidad GDG La Paz organiza uno de los DevFest más grandes de la región, donde reuniremos a los mejores en Web & Mobile development , Google Cloud, Artificial Intelligence (AI) y mucho más!!!",
     "callToAction": {
-      "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "label": "Ver más",
+      "link": "https://drive.google.com/drive/folders/1NgGWxt3DJtN6wp1sxt8bf3HS3Ur1sZAv?usp=sharing"
     }
   },
   "mapBlock": {
-    "title": "Location"
-  },
-  "subscribeBlock": {
-    "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
-    },
-    "yourEmail": "Your email",
-    "emailAddress": "Email Address",
-    "firstName": "First Name",
-    "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
-    "emailRequired": "Please enter a valid email address.",
-    "subscribe": "Subscribe",
-    "subscribed": "Subscribed",
-    "close": "Close",
-    "generalError": "Some error has occured. Please, try again later.",
-    "toast": "Successfully subscribed!"
+    "title": "Ubicación"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": ""
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -195,17 +166,17 @@
     "sessions": "Sessions"
   },
   "notifications": {
-    "default": "Enable notifications",
-    "enabled": "We will miss you but you can unsubscribe anytime",
-    "blocked": "We can't send you notifications right now. Please enable notifications in your browser",
-    "subscribe": "Subscribe",
-    "unsubscribe": "Unsubscribe",
+    "default": "",
+    "enabled": "",
+    "blocked": "",
+    "subscribe": "",
+    "unsubscribe": "",
     "enable": {
-      "label": "Enable",
-      "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
+      "label": "",
+      "link": ""
     },
     "toast": {
-      "title": "Open"
+      "title": "GDG La Paz"
     }
   },
   "aboutOrganizerBlock": {
@@ -213,17 +184,16 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='http://meetu.ps/c/3h9Wy/yD6zS/f' target='_blank'>GDG La Paz</a> es la comunidad de desarrolladores que utilizan tecnologías, plataformas y APIs de Google, ya sea en el ámbito laboral, o en proyectos personales. Cuyo principal objetivo es comunicar, compartir e incentivar el intercambio de conocimiento entre novatos, entusiastas, desarrolladores, líderes de proyectos y organizaciones en general, interesadas en utilizar tecnologías de Google.",
         "callToAction": {
-          "label": "Open team page",
-          "link": "/team"
+          "label": "Unetenos!!!"
         }
       },
       {
         "title": "Que es GDG?",
-        "description": "Google Developers Group (GDG): Es una comunidad geek abierta y voluntaria que crea proyectos apasionantes y comparte la experiencia de las tecnologías de Google con pasión",       
+        "description": "Google Developers Group (GDG): Es una comunidad geek abierta y voluntaria que crea proyectos apasionantes y comparte la experiencia de las tecnologías de Google.",       
         "callToAction": {
-          "label": "Leer Mas",
+          "label": "Leer Más",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }

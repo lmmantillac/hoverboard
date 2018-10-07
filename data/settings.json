@@ -22,16 +22,6 @@
       "route": "home",
       "permalink": "/",
       "label": "Home"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Speakers"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Schedule"
     }
   ],
   "heroSettings": {
@@ -95,7 +85,7 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
+    "name": "La Paz - Bolivia",
     "city": "La Paz",
     "short": "La Paz, Bolivia",
     "address": "Irpavi Av. Rafael Pabon, La Paz, Bolivia",
